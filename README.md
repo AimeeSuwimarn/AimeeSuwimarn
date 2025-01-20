@@ -25,7 +25,7 @@
 
 <h1 align="center"> 🚀 My Projects</h1>
 
-## 📊 Analytics Projects:
+## 📊 Sample Analytics Projects:
 
 ### Tableau
 
