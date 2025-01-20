@@ -38,6 +38,12 @@
 [![Mruit](https://raw.githubusercontent.com/AimeeSuwimarn/AimeeSuwimarn/refs/heads/main/Screenshot%202567-11-30%20at%2019.18.13.png)](https://mruitfood.wixsite.com/mruit1)
 
 
+### Financial, Investing Blog/Article Website 
+
+[![Finvestwise](https://raw.github.com/AimeeSuwimarn/AimeeSuwimarn/refs/heads/main/Screenshot%202568-01-20%20at%2013.22.52.png)](https://finvestwise.com/)
+
+
+
 
 <!---
 AimeeSuwimarn/AimeeSuwimarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
