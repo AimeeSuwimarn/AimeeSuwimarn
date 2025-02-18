@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aimee</h1>
-<h3 align="center">Business Data Analyst and Digital Marketing</h3>
+<h3 align="center">#DigitalMarketing #MarketingManagement #MarTech #Fintech #Ai #BusinessIntelligent #DataAnalytics</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,9 +47,9 @@
 
 ![Image](https://github.com/user-attachments/assets/b2ea91a2-13e0-4723-982a-1972d4b933af)
 
-## 🌐 Fintech Marketing Plan:
+## 🌐 Sample Fintech Marketing Plan:
 
-![Image](https://github.com/user-attachments/assets/f031bd8c-109b-4868-bbb7-1da7e89a7623)
+![Image](https://github.com/user-attachments/assets/bbf49f3c-d539-4555-ac2d-8fa1c27d5cae)
 
 
 
