@@ -45,7 +45,7 @@
 
 ### Financial, Investing Blog/Article Website 
 
-[![Finvestwise](https://raw.github.com/AimeeSuwimarn/AimeeSuwimarn/refs/heads/main/Screenshot%202568-01-20%20at%2013.22.52.png)](https://finvestwise.com/)
+![Image](https://github.com/user-attachments/assets/b2ea91a2-13e0-4723-982a-1972d4b933af)
 
 
 
