@@ -10,7 +10,7 @@
 - 👀 I’m interested in Marketing, Data Analytics, Ai, Fintech, Real Estate, Crypto, Tech, etc.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects i'm interested in!
-- 📫 How to reach me : Via Social Media
+- 📫 How to reach me : Via LinkedIn
 
 
 
@@ -46,6 +46,7 @@
 ### Financial, Investing Blog/Article Website 
 
 ![Image](https://github.com/user-attachments/assets/b2ea91a2-13e0-4723-982a-1972d4b933af)
+
 
 ## 🌐 Sample Fintech Marketing Plan:
 
