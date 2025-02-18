@@ -47,6 +47,9 @@
 
 ![Image](https://github.com/user-attachments/assets/b2ea91a2-13e0-4723-982a-1972d4b933af)
 
+## 🌐 Fintech Marketing Plan:
+
+![Image](https://github.com/user-attachments/assets/f031bd8c-109b-4868-bbb7-1da7e89a7623)
 
 
 
