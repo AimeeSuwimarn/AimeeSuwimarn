@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aimee</h1>
+<h1 align="center">Hi 👋, I'm Em/Aimee</h1>
 <h3 align="center">#DigitalMarketing #MarketingManagement #MarTech #Fintech #Ai #BusinessIntelligent #DataAnalytics</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -6,9 +6,9 @@
 </p>
 
 
-- 👋 Hi, I’m Aimee
+- 👋 Hi, Everyone
 - 👀 I’m interested in Marketing, Data Analytics, Ai, Fintech, Real Estate, Crypto, Tech, etc.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning different tech tools and skills.
 - 💞️ I’m looking to collaborate on projects i'm interested in!
 - 📫 How to reach me : Via LinkedIn
 
