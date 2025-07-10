@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Em/Aimee</h1>
+<h1 align="center">Hi 👋, I'm Em</h1>
 <h3 align="center">#DigitalMarketing #MarketingManagement #MarTech #Fintech #Ai #BusinessIntelligent #DataAnalytics</h3>
 
 <h3 align="left">Connect with me:</h3>
